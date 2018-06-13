@@ -1,3 +1,5 @@
+# bintray-release [![Download](https://api.bintray.com/packages/novoda/maven/bintray-release/images/download.svg) ](https://bintray.com/muchen/maven/abanner/_latestVersion) [![](https://raw.githubusercontent.com/novoda/novoda/master/assets/btn_apache_lisence.png)](LICENSE.txt)
+
 # ABanner
 how to use :
 
