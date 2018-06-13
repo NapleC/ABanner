@@ -1,6 +1,6 @@
-# bintray-release [![Download](https://api.bintray.com/packages/novoda/maven/bintray-release/images/download.svg) ](https://bintray.com/muchen/maven/abanner/_latestVersion) [![](https://raw.githubusercontent.com/novoda/novoda/master/assets/btn_apache_lisence.png)](LICENSE.txt)
-
 # ABanner
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Download](https://api.bintray.com/packages/tangsiyuan/maven/myokhttp/images/download.svg) ](https://bintray.com/muchen/maven/abanner/_latestVersion)
 how to use :
 
   1.in your xml:
