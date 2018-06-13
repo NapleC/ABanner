@@ -1,5 +1,6 @@
 # ABanner
 how to use :
+
   1.in your xml:
   
       <com.youth.banner.Banner
