@@ -1,5 +1,7 @@
 # ABanner
 
+implementation "com.hl:abanner:0.1.0"
+
 how to use :
 
   1.in your xml:
